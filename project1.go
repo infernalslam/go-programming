@@ -20,4 +20,9 @@ func main() {
 	fmt.Println("String str -> ",str)
 	fmt.Println("arr -> ", arr)
 
+	// input 
+	var input float64
+	fmt.Scanf("%f", &input)
+	fmt.Println("ผลรับของการรับค่า ", input)
+	
 }
