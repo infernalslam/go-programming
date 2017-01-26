@@ -17,6 +17,6 @@ func main() {
     fmt.Print("What is your name?  ")
     fmt.Scanf("%s", &myname)
     fmt.Println("Hello", myname)
-
+	
 	
 }
